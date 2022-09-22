@@ -13,8 +13,6 @@ Shell > PortScan.exe
 |  __/ (_) | |  | |_   ___) | (_| (_| | | | |
 |_|   ___/|_|   __| |____/ _____ _|_| |_|
 
-
-
  Usage: 异步端口扫描器
  Email: me@lyshark.com
 
